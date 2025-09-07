@@ -1,0 +1,21 @@
+# Ignore generated folders
+/audio/
+/data/
+/ddsp-training-*/
+/training_data/
+/REFERENCE/
+/__pycache__/
+
+# Ignore virtual environments
+/venv_ddsp/
+/.venv/
+
+# Ignore model exports
+*.zip
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
